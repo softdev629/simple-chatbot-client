@@ -1,7 +1,13 @@
+import ChatBox from "./components/chatbox";
+
 import "./App.css";
 
 function App() {
-  return <div className="App"></div>;
+  return (
+    <>
+      <ChatBox />
+    </>
+  );
 }
 
 export default App;
