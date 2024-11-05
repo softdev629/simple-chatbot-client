@@ -11,6 +11,7 @@ This repository contains a Simple Chatbot UI built using React and Ant Design (A
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+- [UI Preview](#ui-preview)
 
 ## Features
 
@@ -58,6 +59,14 @@ To get started with the Simple Chatbot UI, follow these steps:
    ```
 
    This will launch the application on `http://localhost:3000` in your default web browser.
+
+## UI Preview  
+
+Below is a preview of the Simple Chatbot UI, showcasing its design and interactive elements built using React and Ant Design.  
+
+![Chatbot UI Screenshot](./img/screenshot-1.png)  
+
+*Figure: Screenshot of the Chatbot UI in action.*
 
 ## Usage
 
